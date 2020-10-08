@@ -1,0 +1,8 @@
+2020-10-08 08:17:35 [main] INFO  com.employee.CodingTestApplication - Starting CodingTestApplication on DESKTOP-03QCKI9 with PID 8092 (C:\Users\nive.weaver\Desktop\test\CodingTest\bin\main started by nive.weaver in C:\Users\nive.weaver\Desktop\test\CodingTest)
+2020-10-08 08:17:35 [main] DEBUG com.employee.CodingTestApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-08 08:17:35 [main] INFO  com.employee.CodingTestApplication - The following profiles are active: dev
+2020-10-08 08:17:46 [main] INFO  com.employee.CodingTestApplication - Started CodingTestApplication in 11.881 seconds (JVM running for 13.354)
+2020-10-08 08:18:02 [main] INFO  com.employee.CodingTestApplication - Starting CodingTestApplication on DESKTOP-03QCKI9 with PID 12600 (C:\Users\nive.weaver\Desktop\test\CodingTest\bin\main started by nive.weaver in C:\Users\nive.weaver\Desktop\test\CodingTest)
+2020-10-08 08:18:02 [main] DEBUG com.employee.CodingTestApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-08 08:18:02 [main] INFO  com.employee.CodingTestApplication - The following profiles are active: dev
+2020-10-08 08:18:14 [main] INFO  com.employee.CodingTestApplication - Started CodingTestApplication in 13.101 seconds (JVM running for 14.492)
